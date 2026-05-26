@@ -1,0 +1,17 @@
+packages:
+  "framer-motion": "For elegant scroll animations, layout transitions, and page load effects"
+  "clsx": "Utility for conditionally joining classNames together"
+  "tailwind-merge": "Utility to merge Tailwind CSS classes without style conflicts"
+
+images:
+  - path: "artifacts/portfolio/public/images/hero-bg.png"
+    description: "Abstract dark navy and teal geometric shapes with a soft, glowing glassmorphism effect, futuristic and professional"
+    aspect_ratio: "16:9"
+  - path: "artifacts/portfolio/public/images/avatar.png"
+    description: "A professional 3D illustrated avatar of a male Indian developer looking confident, dark navy background"
+    aspect_ratio: "1:1"
+
+notes:
+  - Static single-page portfolio with hardcoded data.
+  - No backend API endpoints are used.
+  - Smooth scrolling implemented natively for anchor links.
